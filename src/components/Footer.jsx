@@ -29,7 +29,7 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/prashant-panwar-688006320/" title="Instagram" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={24} />
           </a>
-          <a href="/MayankChauhan.pdf" title="Download Resume" download className="hover:text-cyan-300">
+          <a href="\PrashantPanwar_Resume.pdf" title="Download Resume" download className="hover:text-cyan-300">
             <BsFillPersonLinesFill size={24} />
           </a>
         </div>
