@@ -12,7 +12,7 @@ const SocialLinks = () => {
           <FaLinkedin size={30} /> LinkedIn
         </>
       ),
-      href: "https://www.linkedin.com/in/mayank-chauhan2003/",
+      href: "https://www.linkedin.com/in/prashant-panwar-688006320/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           <FaGithub size={30} /> GitHub
         </>
       ),
-      href: "https://github.com/osi-102",
+      href: "https://github.com/Prashant07Panwar",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           <HiOutlineMail size={30} /> Mail
         </>
       ),
-      href: "mailto:2003mayankchauhan.b@gmail.com",
+      href: "mailto:prashantpanwar0903b@gmail.com",
     },
     {
       id: 4,
