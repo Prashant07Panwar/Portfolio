@@ -14,7 +14,7 @@ const Footer = () => {
           <p className="text-center">Phone: +91 7983905066</p>
         </div>
         <div className="flex space-x-6">
-          <a href="mailto:2003mayankchauhan.b@gmail.com" title="Email" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
+          <a href="mailto:prashantpanwar0903@gmail.com" title="Email" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
             <HiOutlineMail size={24} />
           </a>
           <a href="https://www.linkedin.com/in/prashant-panwar-688006320/" title="LinkedIn" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
