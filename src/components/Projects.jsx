@@ -11,7 +11,7 @@ const Projects = () => {
       className="my-20 text-center text-4xl">Projects</motion.h2>
       <div>
         {PROJECTS.map((project, index) => (
-          <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
+          <div key={index} className="mb-8 flex flex-wrap lg:justify-center items-center">
             <motion.div 
             whileInView={{ opacity: 1, x: 0 }}
             initial={{ opacity: 0, x: -100 }}
@@ -19,8 +19,8 @@ const Projects = () => {
             className="w-full lg:w-1/4">
               <img
                 src={project.image}
-                width={300}
-                height={300}
+                width={200}
+                height={150}
                 alt={project.title}
                 className="mb-6 rounded"
               />
