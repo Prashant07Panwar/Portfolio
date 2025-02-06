@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
-import project3 from "../assets/projects/project4.png";
-import project4 from "../assets/projects/project3.png";
+import project3 from "../assets/projects/project3.jpg";
+import project4 from "../assets/projects/project4.jpg";
 
 
 export const HERO_CONTENT = `I’m a passionate Full Stack Developer skilled in building dynamic and efficient web applications. From crafting responsive frontends to optimizing backend performance, I enjoy solving complex challenges and turning ideas into impactful solutions. Let’s connect and collaborate!`;
@@ -61,39 +61,39 @@ export const PROJECTS = [
   {
     title: "Linktree",
     image: project1,
-    link: "https://smm-two.vercel.app",
-    code: "https://github.com/osi-102",
+    link: "https://github.com/Prashant07Panwar/linktree.git",
+    code: "https://github.com/Prashant07Panwar/linktree.git",
     description: [
       "Developed a Linktree,a full stack project that handles all the social media links of a user.",
       "It displays all the links on user's handle, thus enabling them to navigate to all of their social media profiles with just one click",
     ],
-    technologies: ["React", "Next.js", "MongoDB", "tailwind","Node.js"],
+    technologies: ["Next.js","React", "MongoDB", "tailwind","Node.js"],
   },
   {
     title: "Bitlinks",
     image: project2,
-    link: "-",
-    code: "https://github.com/osi-102/vsp-backend",
+    link: "https://github.com/Prashant07Panwar/urlshortner.git",
+    code: "https://github.com/Prashant07Panwar/urlshortner.git",
     description: [
       "A url shortner app that helps users shortnen their url easily",
     ],
-    technologies: ["Node.js", "MongoDB", "React.js", "Next.js","Tailwind"],
+    technologies: ["Next.js", "React", "Tailwind", "MongoDB", "Node.js"],
   },
   {
-    title: "React Password Manager",
+    title:"Buy-me-a-tea",
     image: project3,
-    link: "https://osi-102.github.io/sokoban-game",
-    code: "https://github.com/osi-102",
+    link: "https://github.com/Prashant07Panwar/buymeatea.git",
+    code: "https://github.com/Prashant07Panwar/buymeatea.git",
     description: [
       "A react app for managing and storing your passwords for various sites",
     ],
-    technologies: ["Node.js", "MongoDB", "React.js","Tailwind"],
+    technologies: ["Node.js","MongoDB","Mnogoose","React","Next.js","Tailwind"],
   },
   {
     title: "Twitter clone",
     image: project4,
-    link: "-",
-    code: "-",
+    link: "https://cloneetwitter2.netlify.app/",
+    code: "https://github.com/Prashant07Panwar/Tailwind.git",
     description: [
       "Developed a Frontend UI of twitter using tailwind css.",
     ],

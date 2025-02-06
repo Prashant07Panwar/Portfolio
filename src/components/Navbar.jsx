@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/logo3.jpg";
+import logo from "../assets/myprofile.jpg";
 import  data  from "./data";
 // import { DATA } from "../constants/index";
 // import { FaBars, FaTimes } from "react-icons/fa";
