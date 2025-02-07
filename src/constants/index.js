@@ -61,7 +61,7 @@ export const PROJECTS = [
   {
     title: "Linktree",
     image: project1,
-    link: "https://github.com/Prashant07Panwar/linktree.git",
+    link: "https://linktree-nine-livid.vercel.app/",
     code: "https://github.com/Prashant07Panwar/linktree.git",
     description: [
       "Developed a Linktree,a full stack project that handles all the social media links of a user.",
