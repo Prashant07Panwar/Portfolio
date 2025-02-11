@@ -64,8 +64,7 @@ export const PROJECTS = [
     link: "https://linktree-nine-livid.vercel.app/",
     code: "https://github.com/Prashant07Panwar/linktree.git",
     description: [
-      "Developed a Linktree,a full stack project that handles all the social media links of a user.",
-      "It displays all the links on user's handle, thus enabling them to navigate to all of their social media profiles with just one click",
+      "Linktree, a full-stack web application that allows users to create and manage a personalized landing page with links to all their social media profiles or important sites. This project helps users streamline their online presence with a single, shareable link.",
     ],
     technologies: ["Next.js","React", "MongoDB", "tailwind","Node.js"],
   },
@@ -75,7 +74,7 @@ export const PROJECTS = [
     link: "https://github.com/Prashant07Panwar/urlshortner.git",
     code: "https://github.com/Prashant07Panwar/urlshortner.git",
     description: [
-      "A url shortner app that helps users shortnen their url easily",
+      "Bitlinks, a full-stack web application that allows users to shorten long URLs for easier sharing and navigation. This project enhances link management and provides a seamless user experience.",
     ],
     technologies: ["Next.js", "React", "Tailwind", "MongoDB", "Node.js"],
   },
@@ -85,9 +84,9 @@ export const PROJECTS = [
     link: "https://github.com/Prashant07Panwar/buymeatea.git",
     code: "https://github.com/Prashant07Panwar/buymeatea.git",
     description: [
-      "A react app for managing and storing your passwords for various sites",
+      "A Patreon-like platform in which users can fund their favorite creators. NextAuth is used for authentication and Razorpay is used for secure and easy  payments.",
     ],
-    technologies: ["Node.js","MongoDB","Mnogoose","React","Next.js","Tailwind"],
+    technologies: ["Node.js","MongoDB","Mongoose","React","Next.js","Tailwind"],
   },
   {
     title: "Twitter clone",
