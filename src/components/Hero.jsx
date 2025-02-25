@@ -48,12 +48,12 @@ const Hero = () => {
           </div>
         </div>
         <div className="w-full lg:w-1/2 lg:pb-12 ">
-          <div className="flex justify-center object-contain">
+          <div className="flex justify-center">
             <motion.img
             initial={{ x: 100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ delay: 1, duration: 1.2 }}
-              className="rounded-4xl object-cover h-[60vh] w-[70vw]"
+              className="rounded-4xl object-cover h-[74vh] w-[68vh]"
               src={profilePic}
               alt="Prashant Panwar"
             />
