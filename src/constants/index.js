@@ -66,7 +66,7 @@ export const PROJECTS = [
   {
     title: "Bitlinks",
     image: project2,
-    link: "https://github.com/Prashant07Panwar/urlshortner.git",
+    link: "https://bitlinks-url-shortner-app.vercel.app/",
     code: "https://github.com/Prashant07Panwar/urlshortner.git",
     description: [
       "Bitlinks, a full-stack web application that allows users to shorten long URLs for easier sharing and navigation. This project enhances link management and provides a seamless user experience.",
