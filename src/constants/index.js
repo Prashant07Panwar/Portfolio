@@ -76,7 +76,7 @@ export const PROJECTS = [
   {
     title:"Buy-me-a-tea",
     image: project3,
-    link: "https://github.com/Prashant07Panwar/buymeatea.git",
+    link: "https://buymeatea-fawn.vercel.app/",
     code: "https://github.com/Prashant07Panwar/buymeatea.git",
     description: [
       "A Patreon-like platform in which users can fund their favorite creators. NextAuth is used for authentication and Razorpay is used for secure and easy  payments.",
