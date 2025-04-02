@@ -8,7 +8,6 @@ import { animate, motion } from "framer-motion";
 const iconVariants = (duration) => ({
   initial: { x: 10 },
   animate: {
-    // y: [10, -10, 10, -10,],
     x: [10, -10],
     transition: {
       duration: duration,

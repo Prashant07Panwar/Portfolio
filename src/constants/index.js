@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.jpg";
 import project4 from "../assets/projects/project4.jpg";
+import project5 from "../assets/projects/project5.jpg";
 
 
 export const HERO_CONTENT = `I’m a passionate Full Stack Developer skilled in building dynamic and efficient web applications. From crafting responsive frontends to optimizing backend performance, I enjoy solving complex challenges and turning ideas into impactful solutions. Let’s connect and collaborate!`;
@@ -16,7 +17,6 @@ export const DATA = [
   { title: "Technologies", href: "#technologies" },
   { title: "Experience", href: "#experience" },
   { title: "Projects", href: "#projects" },
-  // { title: "Testimonials", href: "#testimonials" },
   { title: "Contact", href: "#contact" },
 ];
 
@@ -29,27 +29,6 @@ export const EXPIERENCE = [
       `Currently Working.`,
     ]
   }
-//   {
-//     year: "Jan, 2024 - July, 2024",
-//     role: "Full Stack Intern",
-//     company:
-//       "Cehpoint E-Learning And Cyber Security, Kolkata, West Bengal, India",
-//     description: [
-//       `Boosted user engagement by 25% with an interactive website, fostering efficient hiring practices for developers and
-//  employers while providing a user-friendly environment for project execution.`,
-//       `Orchestrated the development of an interactive freelancer platform, integrating cutting-edge technologies like
-//  React.js and Tailwind CSS. Crafted an engaging assessment page with user-centric design, enhancing the hiring
-//  process and user experience.`,
-//     ],
-//     technologies: [
-//       "Javascript",
-//       "HTML",
-//       "CSS",
-//       "React.js",
-//       "Node.js",
-//       "MongoDB",
-//     ],
-//   },
 ];
 
 export const PROJECTS = [
@@ -93,6 +72,16 @@ export const PROJECTS = [
     ],
     technologies: ["Tailwind"],
   },
+  {
+    title: "Todolist App",
+    image: project5,
+    link: "https://todolist-app-iota-five.vercel.app/",
+    code: "https://github.com/Prashant07Panwar/Todolist-app.git",
+    description: [
+      "Created a simple Todo List application using React.js. Users can add, delete, and mark tasks as completed. The app uses local storage to persist data.",
+    ],
+    technologies: ["React.js", "JavaScript", "HTML", "CSS"],
+  }
 ];
 
 export const CONTACT = {

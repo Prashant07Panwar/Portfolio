@@ -26,7 +26,7 @@ const Footer = () => {
           <a href="https://www.linkedin.com/in/prashant-panwar-688006320/" title="Twitter" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
             <FaXTwitter size={24} />
           </a>
-          <a href="https://www.linkedin.com/in/prashant-panwar-688006320/" title="Instagram" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/_prashant_.09_/?hl=en" title="Instagram" className="hover:text-cyan-300" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={24} />
           </a>
           <a href="\Prashant's Resume.pdf" title="Download Resume" download className="hover:text-cyan-300">
