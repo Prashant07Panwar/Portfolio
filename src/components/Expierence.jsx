@@ -40,7 +40,7 @@ const Experience = () => {
                 {experience.description.map((des, index) => (
                 <span
                   key={index}
-                  className="flex flex-col mt-4 mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium 
+                  className="flex flex-col mt-4 mr-2 rounded  px-2 py-1 text-sm font-medium 
                         text-neutral-400"
                 >
                   {des}

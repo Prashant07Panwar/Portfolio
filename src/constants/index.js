@@ -22,11 +22,18 @@ export const DATA = [
 
 export const EXPIERENCE = [
   {
-    year: "March 2025 - April 2025",
+    year: "feb 2025 - April 2025",
     role: "ReactJS Developer Intern",
     company: "Indolike",
     description: [
-      `Currently Working.`,
+      `Built and deployed responsive web applications including a Password Manager, Portfolio, and Weather App using React.js. Gained hands-on experience in component-based architecture, API integration, and modern UI design principles.`,
+    ]
+  },{
+    year: "June 2023 - aug 2023",
+    role: "Web development Intern",
+    company: "Internshala",
+    description: [
+      `Developed and deployed a responsive web application using React.js. Gained hands-on experience in component-based architecture, API integration, and modern UI design principles.`,
     ]
   }
 ];
