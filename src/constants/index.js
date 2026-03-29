@@ -21,19 +21,24 @@ export const DATA = [
 ];
 
 export const EXPIERENCE = [
-  {
-    year: "feb 2025 - April 2025",
-    role: "ReactJS Developer Intern",
-    company: "Indolike",
+ {
+    year: "June 2025 - Present",
+    role: "Software Developer",
+    company: "Ione",
     description: [
-      `Built and deployed responsive web applications including a Password Manager, Portfolio, and Weather App using React.js. Gained hands-on experience in component-based architecture, API integration, and modern UI design principles.`,
+      `Working on enterprise applications using Oracle Forms and Reports.`,
+      `Debugging and resolving issues in form workflows and report generation.`,
+      `Writing and optimizing SQL and PL/SQL queries for database operations.`,
+      `Collaborating with team members to identify and fix system-level issues.`,
     ]
-  },{
-    year: "June 2023 - aug 2023",
-    role: "Web development Intern",
+  },
+  {
+    year: "June 2023 - Aug 2023",
+    role: "Web Development Intern",
     company: "Internshala",
     description: [
-      `Developed and deployed a responsive web application using React.js. Gained hands-on experience in component-based architecture, API integration, and modern UI design principles.`,
+      `Developed a responsive web application using React.js.`,
+      `Gained hands-on experience in component-based architecture and API integration.`,
     ]
   }
 ];
