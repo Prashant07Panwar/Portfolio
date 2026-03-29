@@ -21,15 +21,15 @@ export const DATA = [
 ];
 
 export const EXPIERENCE = [
- {
+  {
     year: "June 2025 - Present",
     role: "Software Developer",
     company: "Ione",
     description: [
-      `Working on enterprise applications using Oracle Forms and Reports.`,
-      `Debugging and resolving issues in form workflows and report generation.`,
-      `Writing and optimizing SQL and PL/SQL queries for database operations.`,
-      `Collaborating with team members to identify and fix system-level issues.`,
+      `Working on Oracle Forms and Reports for enterprise applications.`,
+      `Handling issues related to form flow and report generation.`,
+      `Writing SQL and PL/SQL queries for data operations and fixes.`,
+      `Supporting day-to-day debugging and system issue resolution.`,
     ]
   },
   {
@@ -37,8 +37,8 @@ export const EXPIERENCE = [
     role: "Web Development Intern",
     company: "Internshala",
     description: [
-      `Developed a responsive web application using React.js.`,
-      `Gained hands-on experience in component-based architecture and API integration.`,
+      `Built a responsive web application using React.js.`,
+      `Worked with APIs and learned component-based development.`,
     ]
   }
 ];
