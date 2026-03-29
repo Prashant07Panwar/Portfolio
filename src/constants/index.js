@@ -5,11 +5,11 @@ import project4 from "../assets/projects/project4.jpg";
 import project5 from "../assets/projects/project5.jpg";
 
 
-export const HERO_CONTENT = `I’m a passionate Full Stack Developer skilled in building dynamic and efficient web applications. From crafting responsive frontends to optimizing backend performance, I enjoy solving complex challenges and turning ideas into impactful solutions. Let’s connect and collaborate!`;
+export const HERO_CONTENT = `I’m a Full Stack Developer working with React, Next.js, and Node.js, along with experience in Oracle Forms, Reports, and PL/SQL. I enjoy building efficient web applications and solving real-world problems through clean and scalable solutions.`;
 
 export const ABOUT_TEXT = [
-  `I’m a passionate Full Stack Developer. I completed my graduation in Information Technology.
-I specialize in building dynamic and efficient web applications, excelling in both frontend and backend development. I enjoy solving complex challenges, creating responsive designs, and delivering impactful digital solutions.`
+  `I’m a Full Stack Developer with a background in Information Technology. I specialize in building web applications using modern technologies like React and Node.js. 
+Currently, I’m working on enterprise systems involving Oracle Forms, Reports, and PL/SQL, where I handle real-time issues and database operations. I enjoy solving practical problems and continuously improving my development skills.`
 ];
 
 export const DATA = [
