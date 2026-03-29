@@ -24,7 +24,7 @@ export const EXPIERENCE = [
   {
     year: "June 2025 - Present",
     role: "Software Developer",
-    company: "Ione",
+    company: "Ione IT Solutions",
     description: [
       `Working on Oracle Forms and Reports for enterprise applications.`,
       `Handling issues related to form flow and report generation.`,
